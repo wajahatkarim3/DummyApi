@@ -1,4 +1,5 @@
-[
+{
+  "missions": [
   {
     "id": 1,
     "name": "Let's Play! PS4 Booth",
@@ -35,3 +36,4 @@
     "type": "location"
   }
 ]
+}
