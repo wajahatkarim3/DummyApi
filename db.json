@@ -34,6 +34,83 @@
       "description": "Check in on any hiking mountain at least 200 ft high",
       "points": 200,
       "type": "location"
+    },
+    {
+      "id": 6,
+      "name": "Ludo Star",
+      "description": "Play Ludo Star game and win at-least 3 games. Share the winning pictures.",
+      "points": 200,
+      "type": "photo"
+    },
+    {
+      "id": 7,
+      "name": "Movie Night",
+      "description": "Watch any horror movie at nearby theater and check-in there",
+      "points": 100,
+      "type": "location"
+    },
+    {
+      "id": 8,
+      "name": "Shopping Mall Spree",
+      "description": "Take at-least 10 images of things you buy at any shopping mall",
+      "points": 100,
+      "type": "photo"
+    },
+    {
+      "id": 9,
+      "name": "Let's Play! PS4 Booth",
+      "description": "Take a picture or selfie of yourself playing one of the PS4 games!",
+      "points": 150,
+      "type": "photo"
+    },
+    {
+      "id": 10,
+      "name": "Mash Up Movie Poster",
+      "description": "Name this new movie Mash up Poster",
+      "points": 70,
+      "type": "text"
+    },
+    {
+      "id": 11,
+      "name": "Solve the Travellers Challenge!",
+      "description": "Travel at least one city and take 10 pictures in different areas",
+      "points": 100,
+      "type": "photo"
+    },
+    {
+      "id": 12,
+      "name": "Avengers Selfie",
+      "description": "Get a costume for any character from Avengers movie and take a selfie in it.",
+      "points": 200,
+      "type": "photo"
+    },
+    {
+      "id": 13,
+      "name": "Hike Time",
+      "description": "Check in on any hiking mountain at least 200 ft high",
+      "points": 200,
+      "type": "location"
+    },
+    {
+      "id": 14,
+      "name": "Ludo Star",
+      "description": "Play Ludo Star game and win at-least 3 games. Share the winning pictures.",
+      "points": 200,
+      "type": "photo"
+    },
+    {
+      "id": 15,
+      "name": "Movie Night",
+      "description": "Watch any horror movie at nearby theater and check-in there",
+      "points": 100,
+      "type": "location"
+    },
+    {
+      "id": 16,
+      "name": "Shopping Mall Spree",
+      "description": "Take at-least 10 images of things you buy at any shopping mall",
+      "points": 100,
+      "type": "photo"
     }
   ]
 }
